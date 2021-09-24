@@ -1,0 +1,58 @@
+body{
+  background-color:black;
+  color:white;
+  text-font:"Times New Roman";
+}
+p{
+  color:#008080;
+}
+ul{
+  color:red;
+}
+.title{
+  color:yellow;
+}
+#Top-Title{
+  text-decoration:underline;
+}
+h2{
+  color:dodgerblue;
+}
+h4{
+  text-style:bold;
+}
+.Sailing{
+  color:aquamarine;
+}
+.Skiing{
+  color:#8B008B;
+}
+.climbing{
+  color:#FFA07A;
+}
+.videogames{
+  color:lime;
+}
+img{
+  border:5px;
+  width:300px;
+  border-color:#008000;
+}
+.skiing-pic{
+  border-style:double;
+}
+.sailing-pic{
+  border-style:solid;
+}
+.climbing-pic{
+  border-style:dashed;
+}
+.video-game-pic{
+  border-style:dotted
+}
+.list{
+  color:#FF4500;
+}
+#list-title{
+  text-decoration:underline;
+}
