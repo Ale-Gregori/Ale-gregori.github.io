@@ -2,6 +2,9 @@ body{
   background-color:black;
   color:white;
   text-font:"Times New Roman";
+  text-align:center;
+  display: inline-block;
+  list-style-position: inside;
 }
 p{
   color:#008080;
@@ -36,7 +39,7 @@ h4{
 img{
   border:5px;
   width:300px;
-  border-color:#008000;
+  border-color:darkblue;
 }
 .skiing-pic{
   border-style:double;
@@ -55,4 +58,16 @@ img{
 }
 #list-title{
   text-decoration:underline;
+}
+.Div-sailing{
+  background-color:#80002B;
+}
+.Div-skiing{
+  background-color:#008B00;
+}
+.Div-climbing{
+  background-color:#7AD9FF
+}
+.Div-video{
+  background-color:purple
 }
