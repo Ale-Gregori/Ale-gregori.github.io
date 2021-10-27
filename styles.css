@@ -1,9 +1,9 @@
 body{
   background-color:black;
+  font-size:1.75em;
   color:white;
   text-font:"Times New Roman";
   text-align:center;
-  display: inline-block;
   list-style-position: inside;
 }
 p{
@@ -11,6 +11,13 @@ p{
 }
 ul{
   color:red;
+  border:dotted blue;
+  display:inline-block;
+  overflow:hidden;
+}
+.li{
+  float:left;
+  padding:15px;
 }
 .title{
   color:yellow;
@@ -70,4 +77,14 @@ img{
 }
 .Div-video{
   background-color:purple
+}
+video{
+  height:500px;
+}
+.vid-section{
+  border:2px dotted yellow;
+  display:inline-block;
+}
+summary{
+  color:#27fe8a
 }
